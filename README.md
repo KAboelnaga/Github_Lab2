@@ -2,7 +2,7 @@
 
 A basic HTML webpage created to demonstrate GitHub usage, HTML structure, and simple content layout.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](Screenshot.png)
 
 ## 🧾 Description
 
