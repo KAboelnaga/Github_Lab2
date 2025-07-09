@@ -25,13 +25,7 @@ It's perfect for practicing version control basics with Git and GitHub.
 
 ---
 
-## 🖼️ Screenshot
 
-> _Preview of the webpage:_
-
-![Screenshot](assets/screenshot.png)
-
----
 
 ## 🚀 How to Run
 
