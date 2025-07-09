@@ -17,19 +17,7 @@ It's perfect for practicing version control basics with Git and GitHub.
 
 ---
 
-## 📁 Project Structure
 
-project-root/
-│
-├── index.html # Main HTML page
-├── readme.md
-└── screenshot.png # Project image or screenshot
-
-yaml
-Copy
-Edit
-
----
 
 ## 🧑‍💻 Page Creators
 
